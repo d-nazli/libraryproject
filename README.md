@@ -1,1 +1,1 @@
-.
+This project is a Library Automation System developed using only C# and integrated with a Microsoft SQL Server database. The application allows easy management of books, members, and lending transactions.
